@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "rest-shop",
+        "JWT_KEY": "qwert$ecre+yek"
+    }
+}
